@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+#intro-text {
+	text-indent: 50px;
+}
+
 ol, ul {
 	list-style: none;
 }

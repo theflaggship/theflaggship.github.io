@@ -34,7 +34,7 @@ body {
 }
 
 #intro-text {
-	text-indent: 50px;
+	text-indent: -2em;
 }
 
 ol, ul {

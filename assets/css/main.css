@@ -2142,7 +2142,7 @@ input[type="radio"] + label:before {
   position: relative;
 }
 
-/* .image:before {
+.image:before {
   -moz-transition: opacity 0.2s ease-in-out;
   -webkit-transition: opacity 0.2s ease-in-out;
   -ms-transition: opacity 0.2s ease-in-out;
@@ -2156,7 +2156,7 @@ input[type="radio"] + label:before {
   position: absolute;
   top: 0;
   width: 100%;
-} */
+}
 
 .image.thumb {
   text-align: center;

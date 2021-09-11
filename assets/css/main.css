@@ -2168,6 +2168,7 @@ input[type="radio"] + label:before {
   -ms-transition: opacity 0.2s ease-in-out;
   transition: opacity 0.2s ease-in-out;
   border-radius: 0.35em;
+	background-color: rgba(0, 0, 0, 0.2);
   border: solid 3px rgba(255, 255, 255, 0.5);
   color: #fff;
   content: "Visit";

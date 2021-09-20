@@ -2115,6 +2115,7 @@ input[type="radio"] + label:before {
   text-transform: none !important;
   font-family: "Font Awesome 5 Free";
   font-weight: 400;
+  color: #787878;
 }
 
 .icon > .label {
@@ -3336,5 +3337,5 @@ body.is-touch .poptrox-popup .closer {
 }
 
 #should-i-github {
-  color: rgba(255, 255, 255, 0.5);
+  margin-right: 30px;
 }

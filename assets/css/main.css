@@ -3328,3 +3328,14 @@ body.is-touch .poptrox-popup .closer {
     padding-left: 0;
   }
 }
+
+.project-name-github-conatiner {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#should-i-github {
+  font-size: 30px;
+  color: rgba(255, 255, 255, 0.5);
+}

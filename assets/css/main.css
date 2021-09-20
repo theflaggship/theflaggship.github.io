@@ -3340,3 +3340,7 @@ body.is-touch .poptrox-popup .closer {
 #should-i-github {
   margin-right: 100px;
 }
+
+#should-i-github:hover {
+  background-color: #3d369e;
+}

@@ -3329,13 +3329,13 @@ body.is-touch .poptrox-popup .closer {
   }
 }
 
-.project-name-github-conatiner {
+.project-name-github-container {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
 
-#should-i-github {
+/* #should-i-github {
   font-size: 30px;
   color: rgba(255, 255, 255, 0.5);
-}
+} */

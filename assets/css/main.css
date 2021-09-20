@@ -3331,7 +3331,7 @@ body.is-touch .poptrox-popup .closer {
   }
 }
 
-.project-name-github-container {
+.project-button-container {
   display: flex;
   flex-direction: row;
   justify-content: space-between;

@@ -3334,7 +3334,7 @@ body.is-touch .poptrox-popup .closer {
 .project-button-container {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   margin-bottom: 15px;
 }
 

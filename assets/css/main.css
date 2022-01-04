@@ -2335,9 +2335,7 @@ ul.labeled-icons li a {
 ul.labeled-icons li h3 {
   color: #b2b2b2;
   left: 0;
-  /* position: absolute; */
-  display: flex;
-  flex-direction: row;
+  position: absolute;
   text-align: center;
   top: 0;
   width: 1em;
